@@ -1,6 +1,10 @@
 Git
 ===
 
+# Add new file
+테스트 파일을 로컬에 카피
+git  add/commit/push
+
 # Create a new repository on the command line
 
 touch README.md
