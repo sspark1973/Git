@@ -1,6 +1,27 @@
 Git
 ===
 
+https://help.github.com/articles/generating-ssh-keys
+# Generating SSH Keys
+# Step 1: Check for SSH keys
+# Step 2: Generate a new SSH key
+# Step 3: Add your SSH key to GitHub
+
+http://wiki.eclipse.org/EGit/User_Guide#GitHub_Tutorial
+# Working with remote Repositories
+
+https://help.github.com/articles/changing-a-remote-s-url
+# Changing a remote's URL
+# Switching remote URLs from HTTPS to SSH
+
+https://help.github.com/articles/error-permission-denied-publickey
+# Error: Permission denied (publickey)
+
+# install the Eclipse ADT Bundle
+http://developer.android.com/sdk/installing/index.html?pkg=adt
+# How to completely uninstall eclipse?
+http://askubuntu.com/questions/282951/how-to-completely-uninstall-eclipse 
+
 # Add new file
 테스트 파일을 로컬에 카피
 git  add/commit/push
